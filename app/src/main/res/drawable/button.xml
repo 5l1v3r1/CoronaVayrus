@@ -1,0 +1,25 @@
+<selector xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item tools:ignore="StateListReachable">
+        <shape>
+            <gradient
+                android:startColor="@color/koyu"
+
+                android:endColor="@color/colorAccent"
+                android:angle="0" />
+
+            <corners
+                android:radius="30dp" />
+            <padding
+                android:left="10dp"
+                android:top="10dp"
+                android:right="10dp"
+                android:bottom="10dp" />
+        </shape>
+    </item>
+
+
+
+
+</selector>

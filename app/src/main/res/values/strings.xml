@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Covid19</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Anasayfa</string>
+    <string name="menu_gallery">Güncel Vaka Sayıları</string>
+    <string name="menu_slideshow">Nasıl Korunuruz ?</string>
+    <string name="menu_tools">Hakkımızda</string>
+    <string name="menu_share">Paylaş</string>
+    <string name="phone_number">184</string>
+    <string name="acilll">112</string>
+    <string name="app">Bu uygulama sayesinde güncel vaka sayılarını anlık bildirimler ile öğrenebilir, açıklamalardan haberdar olabilirsiniz. Gördüğünüz veya şüphelendiğiniz vakaları acil olarak bildirip bilgi alabilirsiniz.</string>
+    <string name="covid">Koronavirusler (CoV), soğuk algınlığından Orta Doğu Solunum Sendromu (MERS-CoV) ve Şiddetli Akut Solunum Sendromu (SARS-CoV) gibi daha ciddi hastalıklara kadar çeşitli hastalıklara neden olan büyük bir virüs ailesidir. </string>
+    <string name="title_activity_vaka">Vaka Sayıları</string>
+    <string name="title_activity_guncel">Güncel Vaka Sayıları</string>
+    <string name="title_activity_nasil">Nasıl Korunuruz ?</string>
+    <string name="metin">Mümkün olduğu kadar yurtdışına yolculuk yapılmaması önerilmektedir.  Yurtdışına çıkışın zorunlu olduğu durumlarda aşağıdaki kurallara dikkat edilmelidir:
+\n
+--- Akut solunum yolu enfeksiyonlarının genel bulaşma riskini azaltmak için önerilen temel ilkeler Yeni Koronavirüs (COVID-19) için de geçerlidir. Bunlar;
+\n
+--- El temizliğine dikkat edilmelidir. Eller en az 20 saniye boyunca sabun ve suyla yıkanmalı, sabun ve suyun olmadığı durumlarda alkol bazlı el antiseptiği kullanılmalıdır. Antiseptik veya antibakteriyel içeren sabun kullanmaya gerek yoktur, normal sabun yeterlidir.\n
+--- Eller yıkanmadan ağız, burun ve gözlerle temas edilmemelidir.\n
+--- Hasta insanlarla temastan kaçınmalıdır (mümkün ise en az 1 m uzakta bulunulmalı).\n
+--- Özellikle hasta insanlarla veya çevreleriyle doğrudan temas ettikten sonra eller sık sık temizlenmelidir\n
+--- Hastaların yoğun olarak bulunması nedeniyle mümkün ise sağlık merkezlerine gidilmemeli, sağlık kuruluşuna gidilmesi gereken durumlarda diğer hastalarla temas en aza indirilmelidir.\n
+--- Öksürme veya hapşırma sırasında burun ve ağız tek kullanımlık kağıt mendil ile örtülmeli, kağıt mendilin bulunmadığı durumlarda ise dirsek içi kullanılmalı, mümkünse kalabalık yerlere girilmemeli, eğer girmek zorunda kalınıyorsa ağız ve burun kapatılmalı, tıbbi maske kullanılmalıdır.\n
+--- Çiğ veya az pişmiş hayvan ürünleri yemekten kaçınılmalıdır. İyi pişmiş yiyecekler tercih edilmelidir.\n
+--- Çiftlikler, canlı hayvan pazarları ve hayvanların kesilebileceği alanlar gibi genel enfeksiyonlar açısından yüksek riskli alanlardan kaçınılmalıdır.\n
+--- Seyahat sonrası 14 gün içinde herhangi bir solunum yolu semptomu olursa maske takılarak en yakın sağlık kuruluşuna başvurulmalı, doktora seyahat öyküsü hakkında bilgi verilmelidir.\n</string>
+</resources>

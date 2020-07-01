@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "29443147756",
+    "firebase_url": "https://fir-vega.firebaseio.com",
+    "project_id": "fir-vega",
+    "storage_bucket": "fir-vega.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29443147756:android:38ccfd8391ced487f962c9",
+        "android_client_info": {
+          "package_name": "com.doganoguz.covid19"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29443147756-emvtegru13s25t0mdsnahk1lis2pb7iu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCytv2tqlbHmZouysV7rm3tt6PMymLTrxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29443147756-emvtegru13s25t0mdsnahk1lis2pb7iu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
